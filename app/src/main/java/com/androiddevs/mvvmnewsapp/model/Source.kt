@@ -1,6 +1,6 @@
 package com.androiddevs.mvvmnewsapp.model
 
-data class Source(
+data class  Source(
     val id: String,
     val name: String
 )
